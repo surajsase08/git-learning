@@ -9,6 +9,7 @@ I created this repository to learn version control and practise Git and GitHub c
 As a B.Tech student in Artificial Intelligence and Data Science, I am building my technical foundation by learning how to manage code, track changes, and collaborate using Git and GitHub.
 
 ## Topics I Am Learning
+I am learning Python for AI/ML.
 
 * Git basics and version control
 * Creating repositories with `git init`
