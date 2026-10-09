@@ -4,3 +4,4 @@ is this working project
 i have commited my first change 
 ok done i have added new text.
 I am learning Git branches.
+I have successfully connected my local Git project to GitHub.
